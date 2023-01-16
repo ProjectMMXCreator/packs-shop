@@ -1,7 +1,7 @@
 # Packs "Shop"
 This repo contains all of the community-made packs for the sprite chooser.
 ## How to submit packs
-1. Create a GitHub account (or log in to yours)
+1. Create a GitHub account. If you have one, log in to yours. If logged in already, go on to 2.
 2. Fork this repo.
 3. Create sprites by hand, and then put them in a .zip file.
 4. Name your pack something relevant.
